@@ -1,3 +1,3 @@
 here is
-create a model Person (goiteens)
+create a model Person (goiteens),
 main route (teacher)
